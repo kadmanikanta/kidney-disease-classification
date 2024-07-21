@@ -1,8 +1,8 @@
 ## Kidney-disease-classification
 
-``` 
+
 # how to run this project ?
-```
+
 
 
 ###  Steps:
