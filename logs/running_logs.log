@@ -56,3 +56,488 @@ x==========x]
 [2024-07-22 12:50:32,050: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
 
 x==========x]
+[2024-07-22 13:07:54,841: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:07:54,843: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:07:54,844: INFO: common: created directory at: artifacts]
+[2024-07-22 13:07:54,846: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:14:48,789: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:14:48,791: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:14:48,792: INFO: common: created directory at: artifacts]
+[2024-07-22 13:14:48,794: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:20:33,139: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:20:33,147: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:20:33,149: INFO: common: created directory at: artifacts]
+[2024-07-22 13:20:33,151: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:20:48,019: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:20:48,020: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:20:48,024: INFO: common: created directory at: artifacts]
+[2024-07-22 13:20:48,025: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:23:46,138: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:23:46,140: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:23:46,141: INFO: common: created directory at: artifacts]
+[2024-07-22 13:23:46,142: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:23:47,912: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:23:47,915: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:23:47,916: INFO: common: created directory at: artifacts]
+[2024-07-22 13:23:47,917: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:23:48,852: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:23:48,854: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:23:48,854: INFO: common: created directory at: artifacts]
+[2024-07-22 13:23:48,855: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:23:50,096: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:23:50,099: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:23:50,101: INFO: common: created directory at: artifacts]
+[2024-07-22 13:23:50,103: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:24:31,109: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:24:31,111: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:24:31,112: INFO: common: created directory at: artifacts]
+[2024-07-22 13:24:31,113: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:25:23,191: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:25:23,193: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:25:23,194: INFO: common: created directory at: artifacts]
+[2024-07-22 13:25:23,195: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:26:06,079: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:26:06,080: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:26:06,081: INFO: common: created directory at: artifacts]
+[2024-07-22 13:26:06,082: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:26:07,099: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:26:07,101: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:26:07,102: INFO: common: created directory at: artifacts]
+[2024-07-22 13:26:07,102: INFO: common: created directory at: artifacts\training]
+[2024-07-22 13:28:59,053: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-22 13:28:59,055: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-22 13:28:59,057: INFO: common: created directory at: artifacts]
+[2024-07-22 13:28:59,058: INFO: common: created directory at: artifacts\training]
+[2024-07-23 09:22:17,275: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-23 09:22:17,286: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-23 09:22:17,288: INFO: common: created directory at: artifacts]
+[2024-07-23 09:22:17,289: INFO: common: created directory at: artifacts\training]
+[2024-07-23 09:22:17,769: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-23 09:27:58,272: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-23 09:27:58,284: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-23 09:27:58,287: INFO: common: created directory at: artifacts]
+[2024-07-23 09:27:58,288: INFO: common: created directory at: artifacts\training]
+[2024-07-23 09:27:58,434: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-23 09:29:49,188: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-23 09:29:49,190: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-23 09:29:49,191: INFO: common: created directory at: artifacts]
+[2024-07-23 09:29:49,191: INFO: common: created directory at: artifacts\training]
+[2024-07-23 09:29:49,392: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-23 09:48:36,644: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-23 09:48:36,668: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-23 09:48:36,668: INFO: common: created directory at: artifacts]
+[2024-07-23 09:48:36,670: INFO: common: created directory at: artifacts\training]
+[2024-07-23 09:50:49,917: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-23 10:01:02,783: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-23 10:01:02,789: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-23 10:01:02,790: INFO: common: created directory at: artifacts]
+[2024-07-23 10:01:02,792: INFO: common: created directory at: artifacts\training]
+[2024-07-23 10:01:03,059: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-23 10:14:32,549: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-23 10:14:32,555: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-23 10:14:32,555: INFO: common: created directory at: artifacts]
+[2024-07-23 10:14:32,555: INFO: common: created directory at: artifacts\training]
+[2024-07-23 10:14:32,845: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-25 09:19:46,206: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 09:19:46,230: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 09:19:46,233: INFO: common: created directory at: artifacts]
+[2024-07-25 09:19:46,234: INFO: common: created directory at: artifacts\training]
+[2024-07-25 09:21:29,425: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-25 09:21:29,427: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 09:21:29,428: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 09:21:29,429: INFO: common: created directory at: artifacts]
+[2024-07-25 09:21:29,429: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-25 09:21:29,430: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-25 09:21:54,348: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-25 09:21:55,176: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-25 09:21:55,177: INFO: main: *******************]
+[2024-07-25 09:21:55,177: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-07-25 09:21:55,179: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 09:21:55,181: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 09:21:55,181: INFO: common: created directory at: artifacts]
+[2024-07-25 09:21:55,182: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-07-25 09:21:55,782: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-25 09:21:56,055: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-25 09:21:56,321: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-07-25 09:22:42,113: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 09:22:42,118: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 09:22:42,120: INFO: common: created directory at: artifacts]
+[2024-07-25 09:22:42,122: INFO: common: created directory at: artifacts\training]
+[2024-07-25 09:22:42,479: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-25 09:26:57,184: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 09:26:57,187: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 09:26:57,188: INFO: common: created directory at: artifacts]
+[2024-07-25 09:26:57,190: INFO: common: created directory at: artifacts\training]
+[2024-07-25 09:26:57,446: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-25 09:28:47,637: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 09:28:47,641: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 09:28:47,642: INFO: common: created directory at: artifacts]
+[2024-07-25 09:28:47,644: INFO: common: created directory at: artifacts\training]
+[2024-07-25 09:28:47,869: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-25 09:29:46,065: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-25 13:30:16,773: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-25 13:30:16,775: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 13:30:16,777: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 13:30:16,778: INFO: common: created directory at: artifacts]
+[2024-07-25 13:30:16,779: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-25 13:30:16,780: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-25 13:30:39,978: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-25 13:30:40,721: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-25 13:30:40,721: INFO: main: *******************]
+[2024-07-25 13:30:40,722: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-07-25 13:30:40,723: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 13:30:40,725: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 13:30:40,725: INFO: common: created directory at: artifacts]
+[2024-07-25 13:30:40,726: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-07-25 13:30:41,304: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-25 13:30:41,689: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-25 13:30:41,936: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-07-25 13:40:17,196: INFO: stage_03_model_training: *******************]
+[2024-07-25 13:40:17,197: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2024-07-25 13:40:17,198: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 13:40:17,200: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 13:40:17,200: INFO: common: created directory at: artifacts]
+[2024-07-25 13:40:17,200: INFO: common: created directory at: artifacts\training]
+[2024-07-25 13:40:17,490: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-25 13:40:18,549: ERROR: stage_03_model_training: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.]
+Traceback (most recent call last):
+  File "c:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 38, in <module>
+    obj.main()
+  File "c:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 21, in main
+    training.train()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\site-packages\keras\src\optimizers\base_optimizer.py", line 228, in _check_variables_are_known
+    raise ValueError(
+ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.
+[2024-07-25 14:18:34,651: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-25 14:18:34,653: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 14:18:34,654: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 14:18:34,654: INFO: common: created directory at: artifacts]
+[2024-07-25 14:18:34,655: ERROR: main: "'ConfigBox' object has no attribute 'data_ingestions'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 593, in box.box.Box.__getitem__
+KeyError: 'data_ingestions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 632, in box.box.Box.__getattr__
+  File "box\\box.py", line 620, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 634, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'data_ingestions'. Did you mean: 'data_ingestion'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 648, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 593, in box.box.Box.__getitem__
+KeyError: 'data_ingestions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 632, in box.box.Box.__getattr__
+  File "box\\box.py", line 620, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 634, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'data_ingestions'. Did you mean: 'data_ingestion'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\main.py", line 15, in <module>
+    data_ingestion.main()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 14, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\config\configuration.py", line 21, in get_data_ingestion_config
+    config = self.config.data_ingestions
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 648, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_ingestions'". Did you mean: 'data_ingestion'?
+[2024-07-25 14:27:31,103: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-25 14:27:31,114: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 14:27:31,119: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 14:27:31,120: INFO: common: created directory at: artifacts]
+[2024-07-25 14:27:31,120: ERROR: main: "'ConfigBox' object has no attribute 'data_ingestions'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 593, in box.box.Box.__getitem__
+KeyError: 'data_ingestions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 632, in box.box.Box.__getattr__
+  File "box\\box.py", line 620, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 634, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'data_ingestions'. Did you mean: 'data_ingestion'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 648, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 593, in box.box.Box.__getitem__
+KeyError: 'data_ingestions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 632, in box.box.Box.__getattr__
+  File "box\\box.py", line 620, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 634, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'data_ingestions'. Did you mean: 'data_ingestion'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\main.py", line 15, in <module>
+    data_ingestion.main()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 14, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\config\configuration.py", line 21, in get_data_ingestion_config
+    config = self.config.data_ingestions
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 648, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_ingestions'". Did you mean: 'data_ingestion'?
+[2024-07-25 14:39:57,171: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-25 14:39:57,177: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-25 14:39:57,192: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-25 14:39:57,207: INFO: common: created directory at: artifacts]
+[2024-07-25 14:39:57,208: ERROR: main: "'ConfigBox' object has no attribute 'data_ingestions'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 593, in box.box.Box.__getitem__
+KeyError: 'data_ingestions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 632, in box.box.Box.__getattr__
+  File "box\\box.py", line 620, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 634, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'data_ingestions'. Did you mean: 'data_ingestion'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 648, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 593, in box.box.Box.__getitem__
+KeyError: 'data_ingestions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 632, in box.box.Box.__getattr__
+  File "box\\box.py", line 620, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 634, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'data_ingestions'. Did you mean: 'data_ingestion'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\main.py", line 15, in <module>
+    data_ingestion.main()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 14, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\config\configuration.py", line 21, in get_data_ingestion_config
+    config = self.config.data_ingestions
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 648, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_ingestions'". Did you mean: 'data_ingestion'?
+[2024-07-26 15:31:58,081: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-26 15:31:58,091: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-26 15:31:58,099: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-26 15:31:58,102: INFO: common: created directory at: artifacts]
+[2024-07-26 15:31:58,103: ERROR: main: "'ConfigBox' object has no attribute 'data_ingestions'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 593, in box.box.Box.__getitem__
+KeyError: 'data_ingestions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 632, in box.box.Box.__getattr__
+  File "box\\box.py", line 620, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 634, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'data_ingestions'. Did you mean: 'data_ingestion'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 648, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 593, in box.box.Box.__getitem__
+KeyError: 'data_ingestions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 632, in box.box.Box.__getattr__
+  File "box\\box.py", line 620, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'data_ingestions'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 634, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'data_ingestions'. Did you mean: 'data_ingestion'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\main.py", line 15, in <module>
+    data_ingestion.main()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 14, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\config\configuration.py", line 21, in get_data_ingestion_config
+    config = self.config.data_ingestions
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 648, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_ingestions'". Did you mean: 'data_ingestion'?
+[2024-07-26 15:33:39,265: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-26 15:33:39,269: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-26 15:33:39,271: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-26 15:33:39,271: INFO: common: created directory at: artifacts]
+[2024-07-26 15:33:39,272: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-26 15:33:39,272: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-26 15:33:51,919: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-26 15:33:53,319: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-26 15:33:53,320: INFO: main: *******************]
+[2024-07-26 15:33:53,320: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-07-26 15:33:53,324: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-26 15:33:53,328: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-26 15:33:53,329: INFO: common: created directory at: artifacts]
+[2024-07-26 15:33:53,330: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-07-26 15:33:54,607: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-26 15:33:54,849: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-26 15:33:54,995: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-07-26 15:33:54,996: INFO: main: *******************]
+[2024-07-26 15:33:54,996: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-07-26 15:33:54,997: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-26 15:33:54,999: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-26 15:33:54,999: INFO: common: created directory at: artifacts]
+[2024-07-26 15:33:55,000: INFO: common: created directory at: artifacts\training]
+[2024-07-26 15:33:55,222: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-26 15:33:56,340: ERROR: main: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.]
+Traceback (most recent call last):
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\main.py", line 41, in <module>
+    model_trainer.main()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 21, in main
+    training.train()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\site-packages\keras\src\optimizers\base_optimizer.py", line 228, in _check_variables_are_known
+    raise ValueError(
+ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.
+[2024-07-26 16:57:38,117: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-26 16:57:38,118: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-26 16:57:38,119: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-26 16:57:38,120: INFO: common: created directory at: artifacts]
+[2024-07-26 16:57:38,120: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-26 16:57:38,120: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-26 16:58:35,607: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-07-26 16:58:36,086: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-26 16:58:36,087: INFO: main: *******************]
+[2024-07-26 16:58:36,087: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-07-26 16:58:36,088: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-26 16:58:36,089: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-26 16:58:36,089: INFO: common: created directory at: artifacts]
+[2024-07-26 16:58:36,089: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-07-26 16:58:36,367: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-26 16:58:36,489: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-26 16:58:36,679: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-07-26 16:58:36,679: INFO: main: *******************]
+[2024-07-26 16:58:36,679: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-07-26 16:58:36,682: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-26 16:58:36,685: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-26 16:58:36,686: INFO: common: created directory at: artifacts]
+[2024-07-26 16:58:36,687: INFO: common: created directory at: artifacts\training]
+[2024-07-26 16:58:36,867: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-07-26 16:59:20,070: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-07-26 16:59:20,177: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]

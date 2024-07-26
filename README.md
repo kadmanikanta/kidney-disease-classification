@@ -41,3 +41,10 @@ conda activate kidney
 ```bash
 pip install -r requirements.txt
 ```
+
+# ML FLOW  AND Dagshub
+
+```bash
+Read Documentation  and set ur account 
+```
+
