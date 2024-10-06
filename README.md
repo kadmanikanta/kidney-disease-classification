@@ -48,3 +48,8 @@ pip install -r requirements.txt
 Read Documentation  and set ur account 
 ```
 
+# DVC integration 
+```bash
+whenever your training your model u=your pipline runs from data ingestion to evaluation and it takes a lot of time for that issue we are using DVC
+```
+
