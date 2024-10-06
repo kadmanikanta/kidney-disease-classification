@@ -704,3 +704,123 @@ x==========x]
 [2024-10-06 12:42:39,451: INFO: main: >>>>>> stage evaluation stage completed <<<<<<
 
 x==========x]
+[2024-10-06 13:03:05,706: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-06 13:03:05,706: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-06 13:03:05,706: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-06 13:03:05,706: INFO: common: created directory at: artifacts]
+[2024-10-06 13:03:05,706: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-06 13:03:05,706: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-06 13:03:19,506: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-06 13:03:20,396: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-10-06 13:03:32,845: INFO: stage_02_prepare_base_model: *******************]
+[2024-10-06 13:03:32,845: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2024-10-06 13:03:32,845: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-06 13:03:32,845: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-06 13:03:32,845: INFO: common: created directory at: artifacts]
+[2024-10-06 13:03:32,861: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-06 13:03:33,256: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-10-06 13:03:33,430: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-10-06 13:03:33,526: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-10-06 13:06:53,330: INFO: stage_03_model_training: *******************]
+[2024-10-06 13:06:53,330: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2024-10-06 13:06:53,330: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-06 13:06:53,330: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-06 13:06:53,330: INFO: common: created directory at: artifacts]
+[2024-10-06 13:06:53,330: INFO: common: created directory at: artifacts\training]
+[2024-10-06 13:06:53,646: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-06 13:06:59,284: ERROR: stage_03_model_training: 'charmap' codec can't encode characters in position 21-40: character maps to <undefined>]
+Traceback (most recent call last):
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 26, in main
+    training.train()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 21-40: character maps to <undefined>
+[2024-10-06 13:06:59,285: ERROR: stage_03_model_training: 'charmap' codec can't encode characters in position 21-40: character maps to <undefined>]
+Traceback (most recent call last):
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 36, in <module>
+    obj.main()
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 29, in main
+    raise e
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 26, in main
+    training.train()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 21-40: character maps to <undefined>
+[2024-10-06 13:09:15,976: INFO: stage_03_model_training: *******************]
+[2024-10-06 13:09:15,976: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2024-10-06 13:09:15,976: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-06 13:09:15,976: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-06 13:09:15,976: INFO: common: created directory at: artifacts]
+[2024-10-06 13:09:15,976: INFO: common: created directory at: artifacts\training]
+[2024-10-06 13:09:16,228: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-06 13:09:21,558: ERROR: stage_03_model_training: 'charmap' codec can't encode characters in position 21-40: character maps to <undefined>]
+Traceback (most recent call last):
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 26, in main
+    training.train()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 21-40: character maps to <undefined>
+[2024-10-06 13:09:21,558: ERROR: stage_03_model_training: 'charmap' codec can't encode characters in position 21-40: character maps to <undefined>]
+Traceback (most recent call last):
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 36, in <module>
+    obj.main()
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 29, in main
+    raise e
+  File "C:\Users\MANI\Desktop\campus\kidney-disease-classification\src\cnnClassifier\pipeline\stage_03_model_training.py", line 26, in main
+    training.train()
+  File "c:\users\mani\desktop\campus\kidney-disease-classification\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\MANI\anaconda3\envs\kidney\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 21-40: character maps to <undefined>
+[2024-10-06 13:11:30,653: INFO: stage_03_model_training: *******************]
+[2024-10-06 13:11:30,653: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2024-10-06 13:11:30,658: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-06 13:11:30,662: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-06 13:11:30,662: INFO: common: created directory at: artifacts]
+[2024-10-06 13:11:30,662: INFO: common: created directory at: artifacts\training]
+[2024-10-06 13:11:30,952: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-06 13:12:30,318: INFO: stage_03_model_training: *******************]
+[2024-10-06 13:12:30,318: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2024-10-06 13:12:30,318: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-06 13:12:30,318: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-06 13:12:30,318: INFO: common: created directory at: artifacts]
+[2024-10-06 13:12:30,318: INFO: common: created directory at: artifacts\training]
+[2024-10-06 13:12:30,578: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-06 13:40:33,708: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-10-06 13:40:33,883: INFO: stage_03_model_training: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-06 13:40:43,076: INFO: stage_04_model_evaluation: *******************]
+[2024-10-06 13:40:43,076: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-06 13:40:43,082: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-06 13:40:43,082: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-06 13:40:43,082: INFO: common: created directory at: artifacts]
+[2024-10-06 13:40:43,426: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-06 13:41:02,409: INFO: common: json file saved at: scores.json]
+[2024-10-06 13:41:02,425: INFO: common: json file saved at: scores.json]
+[2024-10-06 13:41:02,425: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]

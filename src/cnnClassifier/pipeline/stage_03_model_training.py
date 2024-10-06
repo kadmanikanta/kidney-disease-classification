@@ -1,3 +1,8 @@
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
+
+
+
 import tensorflow as tf
 from cnnClassifier.config.configuration import ConfigurationManager
 from cnnClassifier.components.model_training import Training
